@@ -33,7 +33,7 @@ Then you will see all the instances of FLV players on your moodle site with deta
 
 Each row has a Convert button. 
 
-When this button is pressed, the FLV instance will be converted to MPlayer and the FLV instance will be DELETED!
+When this button is pressed, the FLVPlayer instance will be converted to MPlayer and the old FLVPlayer instance will be DELETED!
 
 
 I recommend you to do a backup before using this script, to prevent unneccessary losses of FLVPlayer instances, when something goes wrong.
